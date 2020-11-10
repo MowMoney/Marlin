@@ -23,7 +23,7 @@
 
 #include "macros.h"
 
-#define BOARD_UNKNOWN -1
+#define  BOARD_BTT_SKR_V1_4_TURBO -1
 
 //
 // RAMPS 1.3 / 1.4 - ATmega1280, ATmega2560
